@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+body{
+	background-image: url(https://pibig.info/uploads/posts/2022-12/1670004761_5-pibig-info-p-solidnii-fon-pinterest-5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: gold;
+}
+legend{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    color: aqua;
+}
+label{
+	text-transform: inherit;
+	letter-spacing: 7px;
+	color: darkorange;
+}
+p{
+		color: aqua;
+    	text-transform: revert;
+		font-size: 50px;
+		background: linear-gradient(blue, yellow);
+}
+option{
+	background-color: darkblue;
+	text-transform: uppercase;
+    letter-spacing: 15px;
+    color: gold;
+}
+button{
+	width: 150px;
+	height: 50px;
+	background-color: darkblue;
+	font-size: 20px;
+	font-family: 'Rubik Wet Paint', cursive;
+	color: gold;
+	border: solid 5px darkorange;
+	border-radius: 20% 20%;
+}
